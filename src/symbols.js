@@ -30,10 +30,10 @@ export const symbols = [
     symbol: 'QTUMUSDT',
   },
   {
-    symbol: 'SXPUSDT',
+    symbol: 'CVXBUSD',
   },
   {
-    symbol: 'ETHUSDT_220624',
+    symbol: 'SXPUSDT',
   },
   {
     symbol: 'CVCUSDT',
@@ -138,6 +138,9 @@ export const symbols = [
     symbol: 'AUDIOUSDT',
   },
   {
+    symbol: 'ETHUSDT_220930',
+  },
+  {
     symbol: 'API3USDT',
   },
   {
@@ -219,10 +222,10 @@ export const symbols = [
     symbol: 'ARUSDT',
   },
   {
-    symbol: 'BTCUSDT_220624',
+    symbol: 'ETHUSDT',
   },
   {
-    symbol: 'ETHUSDT',
+    symbol: 'WAVESBUSD',
   },
   {
     symbol: '1INCHUSDT',
@@ -259,6 +262,9 @@ export const symbols = [
   },
   {
     symbol: 'ALICEUSDT',
+  },
+  {
+    symbol: 'MATICBUSD',
   },
   {
     symbol: 'ICPBUSD',
@@ -301,6 +307,9 @@ export const symbols = [
   },
   {
     symbol: 'SOLUSDT',
+  },
+  {
+    symbol: 'SANDBUSD',
   },
   {
     symbol: 'OCEANUSDT',
@@ -360,6 +369,9 @@ export const symbols = [
     symbol: 'STMXUSDT',
   },
   {
+    symbol: 'LTCBUSD',
+  },
+  {
     symbol: 'NEARBUSD',
   },
   {
@@ -375,6 +387,9 @@ export const symbols = [
     symbol: 'KLAYUSDT',
   },
   {
+    symbol: 'LINKBUSD',
+  },
+  {
     symbol: 'DARUSDT',
   },
   {
@@ -382,6 +397,9 @@ export const symbols = [
   },
   {
     symbol: 'ETHBUSD',
+  },
+  {
+    symbol: 'BTCUSDT_220930',
   },
   {
     symbol: 'ANCBUSD',
