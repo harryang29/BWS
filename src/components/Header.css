@@ -1,0 +1,12 @@
+.Header {
+  position: sticky;
+  top: 0;
+  z-index: 99;
+  background-color: #1E2329;
+  color: #F0B90B;
+  font-size: 1.1rem;
+  font-weight: 650;
+  padding: 8px;
+  text-align: center;
+  width: 100%;
+}
